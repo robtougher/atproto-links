@@ -2,7 +2,11 @@
 
 This page contains info for Bluesky troubleshooting.
 
-## First Things to Try
+Items with a ⭐ are most used.
+
+&nbsp;
+
+## Getting Started
 
 When I'm debugging issues with Bluesky, I start with the below links.
 
@@ -36,8 +40,11 @@ When I'm debugging issues with Bluesky, I start with the below links.
   - [threddyrex.org/.well-known/did.json](https://threddyrex.org/.well-known/did.json) ⭐
 
 
+&nbsp;
 
 ## General Links
+
+General info about Bluesky.
 
 - Self-hosting (PDS + all)
   - [github/bluesky-social/pds](https://github.com/bluesky-social/pds) ⭐
@@ -100,9 +107,11 @@ When I'm debugging issues with Bluesky, I start with the below links.
   - [aendra-rininsland/xblock](https://github.com/aendra-rininsland/xblock)
   - [mary-ext/atproto-scraping](https://github.com/mary-ext/atproto-scraping)
 
+&nbsp;
 
 ## Commands
 
+Commands to run.
 
 - PDS (Linux)
     - Docker logs (watch events as they happen)
@@ -123,6 +132,7 @@ When I'm debugging issues with Bluesky, I start with the below links.
     - Resolve username ([goat](https://github.com/bluesky-social/indigo/tree/main/cmd/goat))
         - .\goat.exe resolve <username>
 
+&nbsp;
 
 
 ## PDS Notes
