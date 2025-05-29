@@ -61,7 +61,7 @@ General info about Bluesky.
   - [known issue with CORS - fixing PDSls](https://github.com/notjuliet/pdsls/issues/5)
 - Discussion
   - [Discord: AT Protocol PDS Admins](https://discord.gg/h3B9ZjYm) ⭐
-  - [Discord: Bluesky API Touchers](https://discord.gg/3srmDsHSZJ) ⭐
+  - [Discord: ATProto Touchers](https://discord.gg/3srmDsHSZJ) ⭐
   - [Github: atproto discussions](https://github.com/bluesky-social/atproto/discussions)
   - [Github: pds discussions](https://github.com/bluesky-social/pds/discussions)
 - Record browsers
