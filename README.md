@@ -11,13 +11,13 @@ Items with a ⭐ are most used.
 When I'm debugging issues with Bluesky, I start with the below links.
 
 - atproto-browser.vercel.app
-  - [atproto browser threddyrex.com](https://atproto-browser.vercel.app/at/threddyrex.com)
+  - [atproto browser robtougher.com](https://atproto-browser.vercel.app/at/robtougher.com)
 - bsk-debug.app
-  - [bsky-debug threddyrex.com](https://bsky-debug.app/handle?handle=threddyrex.com) ⭐
+  - [bsky-debug robtougher.com](https://bsky-debug.app/handle?handle=robtougher.com) ⭐
 - github.com
   - [mary-ext/atproto-scraping/state.json](https://github.com/mary-ext/atproto-scraping/blob/trunk/state.json)
 - internect.info
-  - [internect threddyrex.com](https://internect.info/did/did:plc:watmxkxfjbwyxfuutganopfk)
+  - [internect robtougher.com](https://internect.info/did/did:plc:watmxkxfjbwyxfuutganopfk)
 - pds01
   - [pds01.threddy.social/xrpc/_health](https://pds01.threddy.social/xrpc/_health) ⭐
   - [pds01.threddy.social/xrpc/com.atproto.server.describeServer](https://pds01.threddy.social/xrpc/com.atproto.server.describeServer) ⭐
@@ -34,8 +34,8 @@ When I'm debugging issues with Bluesky, I start with the below links.
   - [GetPlcData (data)](https://plc.directory/did:plc:watmxkxfjbwyxfuutganopfk/data)
   - [Export](https://plc.directory/export?count=10&after=2024-12-08T20:33:04Z)
 - public.api.bsky.app
-  - [app.bsky.actor.getProfile threddyrex.com](https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=threddyrex.com) ⭐
-  - [com.atproto.identity.resolveHandle threddyrex.com](https://public.api.bsky.app/xrpc/com.atproto.identity.resolveHandle?handle=threddyrex.com) ⭐
+  - [app.bsky.actor.getProfile robtougher.com](https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=robtougher.com) ⭐
+  - [com.atproto.identity.resolveHandle robtougher.com](https://public.api.bsky.app/xrpc/com.atproto.identity.resolveHandle?handle=robtougher.com) ⭐
 - well-known (did:web)
   - [threddyrex.org/.well-known/did.json](https://threddyrex.org/.well-known/did.json) ⭐
 
