@@ -49,6 +49,7 @@ General info about Bluesky.
 - Self-hosting (PDS + all)
   - [github/bluesky-social/pds](https://github.com/bluesky-social/pds) ⭐
   - [bnewbold: Migrating PDS Account with 'goat'](https://whtwnd.com/bnewbold.net/3l5ii332pf32u) ⭐
+  - [Adversarial ATProto PDS Migration](https://www.da.vidbuchanan.co.uk/blog/adversarial-pds-migration.html) ⭐
   - [Two-factor auth does not work (issue #99)](https://github.com/bluesky-social/pds/issues/99)
   - [Two-factor auth feature request (issue #1071)](https://github.com/bluesky-social/social-app/issues/1071)
   - [Can't deactivate old account via goat - do it with web instead](https://github.com/bluesky-social/atproto/issues/3149)
