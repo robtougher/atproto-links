@@ -1,12 +1,9 @@
 # ATProto Links
 
-This page contains a set of links for atproto.
+A set of links for atproto.
 
 
 
-&nbsp;
-
-## Links
 
 - api.bsky.app
   - [api.bsky.app - app.bsky.actor.getProfile robtougher.com](https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=robtougher.com)
