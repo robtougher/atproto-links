@@ -27,8 +27,8 @@ A set of links for atproto.
   - [known issue with CORS - fixing PDSls](https://github.com/notjuliet/pdsls/issues/5)
   - [threddyrex.org/.well-known/did.json](https://threddyrex.org/.well-known/did.json)
 - discussion
-  - [Discord: AT Protocol PDS Admins](https://discord.gg/h3B9ZjYm)
-  - [Discord: ATProto Touchers](https://discord.gg/3srmDsHSZJ)
+  - [Discord: ATProto Touchers](https://discord.gg/3srmDsHSZJ) - main Discord server
+  - Discord: AT Protocol PDS Admins (see the Discord link in [this post](https://docs.bsky.app/blog/self-host-federation))
   - [Github: atproto discussions](https://github.com/bluesky-social/atproto/discussions)
   - [Github: pds discussions](https://github.com/bluesky-social/pds/discussions)
 - leaflet
