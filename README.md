@@ -6,8 +6,8 @@ A set of links for atproto.
 
 
 - api.bsky.app
-  - [api.bsky.app - app.bsky.actor.getProfile robtougher.com](https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=robtougher.com)
-  - [api.bsky.app - com.atproto.identity.resolveHandle robtougher.com](https://public.api.bsky.app/xrpc/com.atproto.identity.resolveHandle?handle=robtougher.com)
+  - [api.bsky.app - app.bsky.actor.getProfile](https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=threddyrex.com)
+  - [api.bsky.app - com.atproto.identity.resolveHandle](https://public.api.bsky.app/xrpc/com.atproto.identity.resolveHandle?handle=threddyrex.com)
 - dev docs
   - [atproto.com](https://atproto.com/)
   - [atproto.com - Quick start guide to building applications on AT Protocol](https://atproto.com/guides/applications)
@@ -81,7 +81,7 @@ A set of links for atproto.
 - tangled
   - [Tangled](https://tangled.sh)
 - tools
-  - [bsky-debug robtougher.com](https://bsky-debug.app/handle?handle=robtougher.com)
+  - [bsky-debug](https://bsky-debug.app/handle)
 
 
 
